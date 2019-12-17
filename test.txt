@@ -1,1 +1,3 @@
 a second file
+more changes
+let's create a conflict
